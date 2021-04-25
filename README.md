@@ -1,5 +1,8 @@
-# Writeups
-Writeups for solutions to some of problems we solve
+
+Writeups for solutions to some of problems we solve.
+
+Visit more [readable version](https://sixteen05.github.io/writeups/).
+
 
 ----
 ### Posts
