@@ -1,4 +1,3 @@
-
 # emoji voting
 ###### Category: Web
 
@@ -19,5 +18,5 @@ Checking the source code we can see that `/api/list` takes and argument  `order`
 
 Above script is inside a `for` loop which iterates over all possibilities of `flag_...` name and recursively proceeds with names that match the table name.
 Once we get the file name we just need the content of flag in first row.
-Minor modifications to above query to read the flag ([complete code](./thisIsawcoming.js)) and this challenge is PWN'd as well.
+Minor modifications to above query to read the flag ([complete code](./assets/thisIsawcoming.js)) and this challenge is PWN'd as well.
 

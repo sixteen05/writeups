@@ -35,4 +35,4 @@ Question 2: ... and so on
 
 Read the question, replace the emojis with numbers in the string and pass it as is to `eval` and send the results as response on TCP socket.
 
-Find the [JS code here](./whyemojiswhy.js)
+Find the [JS code here](./assets/whyemojiswhy.js)
